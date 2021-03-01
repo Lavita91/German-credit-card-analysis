@@ -21,3 +21,8 @@ Important variables of the data
 11. Housing (text: rent, own, for free)
 12. Job (text: unskilled - non-resident, unskilled - resident, skilled employee, self employed)
 13. Response (categorical: good debt, bad debt)
+
+
+**You can download my entire project with the codes and the graphs from the German credit card analysis.html file.** 
+It may not be visible to you due to size issues but its available to download
+You can write to me on lavita.singhania@gmail.com if you have any doubts regarding the project! Thanks!
